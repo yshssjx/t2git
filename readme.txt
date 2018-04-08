@@ -2,4 +2,4 @@
 2. this is a text file(edited by notepad++).
 3. add one line hahaha[12345].
 4. git has a mutable index called stage.
-5. git tracks changes.
+5. git tracks changes of files.
